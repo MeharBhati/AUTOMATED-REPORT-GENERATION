@@ -53,6 +53,8 @@ I also implemented **Error Handling** to ensure the script could handle missing 
 
 ***********Output****
 
+[training_report.pdf](https://github.com/user-attachments/files/21706152/training_report.pdf)
+
 
 
 
