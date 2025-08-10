@@ -55,6 +55,8 @@ I also implemented **Error Handling** to ensure the script could handle missing 
 
 [training_report.pdf](https://github.com/user-attachments/files/21706152/training_report.pdf)
 
+<img width="970" height="752" alt="Image" src="https://github.com/user-attachments/assets/97713ed7-35e5-4853-9838-7aa00a994291" />
+
 
 
 
