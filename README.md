@@ -14,9 +14,7 @@ Mentor : Neela Santosh
 
 ********************************************************
 
-Here’s a detailed \~500-word description for **Task 2 – Automated Report Generation** from your internship:
 
----
 
 **Task 2 – Automated Report Generation**
 
